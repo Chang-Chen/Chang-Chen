@@ -128,44 +128,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/hr.gif" />
+
+[//]: # (<img width="200%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/hr.gif" />)
 
 <!-- GitHub metrics 信息指标 -->
-<div align="center">
-
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/githubgif.gif" />
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/icon.png" /></div>
-</div>
