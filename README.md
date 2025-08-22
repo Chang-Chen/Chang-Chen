@@ -41,24 +41,6 @@
 
 </td></tr>
 
-<tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chang-Chen&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"/>
-
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chang-Chen&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chang-Chen&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
 [//]: # (<tr><td></td></tr>)
 
 </table>
@@ -72,7 +54,8 @@
 <img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/man_run.png" width="250" height="250" />
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/base.svg" />
+
+[//]: # (<img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/base.svg" />)
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
