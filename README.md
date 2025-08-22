@@ -24,18 +24,14 @@
 
 </div>
 
-#  🙋 Hello
-
-
-
-### 🤺 About Me
+### 🙋 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小张同学。热爱编程、游戏、旅行、动手实践。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+- <p>嗨，你好，我是小张同学。热爱编程、游戏、旅行、动手实践。</p>
+- <p>热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+- <p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+- <p><strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 
 <!-- run 图片 -->
