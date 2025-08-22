@@ -85,6 +85,9 @@
 
 </div>
 
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
 <!--  skill badge 技能徽章 -->
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
@@ -120,6 +123,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
 </div>
 
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
 
 <div align="center">
 
