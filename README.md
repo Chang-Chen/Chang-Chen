@@ -43,10 +43,7 @@
 
 </table>
 
-----
-
 <!-- run 图片 -->
-
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/man_run.png" width="250" height="250" />
 </div>
@@ -76,8 +73,6 @@
   </tr>
 </table>
 
-----
-
 <div align="center" >
 
 <!-- just img 图片 -->
@@ -95,8 +90,6 @@
 </table>
 
 </div>
-
-----
 
 <div align="center" >
 
