@@ -55,13 +55,13 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="120" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/left.png" />
+<img width="120" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chang-Chen&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chang-Chen&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chang-Chen&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="120"  src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/right.png" />
+<img width="120"  src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
 
