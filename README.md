@@ -74,14 +74,15 @@
         <td><img width="500px" src="https://github-readme-stats.vercel.app/api?username=Chang-Chen&hide_title=true&hide_border=true&show_icons=trueline_height=21" /></td>
         <td><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Chen&hide_title=true&hide_border=true&layout=compact&langs_count=6" /></td>
     </tr>
+    <tr>
+        <!-- profile-3d-contrib 3D 贡献图-->
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
+          <img src="/profile-night-rainbow.svg" />
+        </picture>
+    </tr>
 </table>
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
-</picture>
 
 </div>
 
