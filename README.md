@@ -14,14 +14,6 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
 </div>
 
 ### 🙋 About Me
@@ -33,6 +25,12 @@
 - <p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 - <p><strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <!-- run 图片 -->
 <div align="center">
