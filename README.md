@@ -41,12 +41,9 @@
 
 </td></tr>
 
-[//]: # (<tr><td></td></tr>)
-
 </table>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/hr.gif" />
+----
 
 <!-- run 图片 -->
 
@@ -67,8 +64,6 @@
 
 <!-- metrics 基础资料 -->
 
-[//]: # (<img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/base.svg" />)
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
@@ -81,10 +76,7 @@
   </tr>
 </table>
 
-
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/hr.gif" />
+----
 
 <div align="center" >
 
@@ -97,15 +89,14 @@
 <!-- GitHub 数据统计 -->
 <table>
     <tr>
-        <td><img width="500px" src="https://github-readme-stats.vercel.app/api?username=Chang-Chen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></td>
-        <td><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Chen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></td>
+        <td><img width="500px" src="https://github-readme-stats.vercel.app/api?username=Chang-Chen&hide_title=true&hide_border=true&show_icons=trueline_height=21" /></td>
+        <td><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Chen&hide_title=true&hide_border=true&layout=compact&langs_count=6" /></td>
     </tr>
 </table>
 
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/hr.gif" />
+----
 
 <div align="center" >
 
@@ -149,11 +140,7 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
 
-[//]: # (<img width="200%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/hr.gif" />)
-
-<!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
