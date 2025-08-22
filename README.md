@@ -76,6 +76,13 @@
     </tr>
 </table>
 
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="/profile-night-rainbow.svg" />
+</picture>
+
 </div>
 
 <div align="center" >
@@ -127,13 +134,6 @@
 <div>&nbsp;</div>
 
 <div align="center">
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
-</picture>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/icon.png" />
