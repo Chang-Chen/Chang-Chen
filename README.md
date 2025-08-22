@@ -18,7 +18,7 @@
 
 ### 🙋 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img align="right" width="120" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
 - <p>嗨，你好，我是小张同学。热爱编程、游戏、旅行、动手实践。</p>
 - <p>热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
