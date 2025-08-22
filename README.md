@@ -48,11 +48,11 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/hr.gif" />
 
-<div align="center">
-
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/man_run.png" width="250" height="250" />
 
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/man_run.png" width="250" height="250" />
+</div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/left.png" />
@@ -79,7 +79,7 @@
   </tr>
 </table>
 
-</div>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/hr.gif" />
