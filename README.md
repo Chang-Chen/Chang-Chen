@@ -153,13 +153,6 @@
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
 <!-- second form 第二个表格 -->
 <table>
   <tr>
