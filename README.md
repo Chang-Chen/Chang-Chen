@@ -13,4 +13,6 @@
 
 ## 🏆 Github Status
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chang-Chen)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Chen)
