@@ -36,7 +36,7 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div>
+<div align="center">
     <img width="150" align="top" src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/left.png" />
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chang-Chen&theme=dark&hide_border=true" />
