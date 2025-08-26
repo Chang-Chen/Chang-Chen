@@ -66,7 +66,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Chang-Chen/Chang-Chen/assets/images/mb.png" width="250" height="250" />
 
 <!-- GitHub 奖杯🏆 -->
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=Chang-Chen)](https://github.com/ryo-ma/github-profile-trophy)
+<div><img src="https://github-profile-trophy.vercel.app/?username=Chang-Chen&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- GitHub 数据统计 -->
 <table>
